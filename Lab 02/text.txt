@@ -1,0 +1,5 @@
+Kansas City, 1500000, 2
+Lawrence, 85483, 3
+Smallville, 20, 0
+Sexy town, 69, 1
+Stowner ville, 420, 0
